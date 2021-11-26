@@ -1,1 +1,1 @@
-# Python-ile-dakikay-geri-sayma
+# Python-ile-dakika-geri-sayma
